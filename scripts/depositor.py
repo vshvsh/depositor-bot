@@ -49,4 +49,4 @@ def main():
         except Exception as e:
             secho(str(e))
         
-        time.sleep(6)
+        time.sleep(120)
